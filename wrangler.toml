@@ -1,7 +1,0 @@
-name = "cloudflare-welcome"
-main = "index.js"
-compatibility_date = "2026-08-23"
-
-# 启用可观测性（日志/指标），可选
-[observability]
-enabled = true
